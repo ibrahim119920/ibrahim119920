@@ -1,53 +1,45 @@
-[LinkedIn](https://www.linkedin.com/in/hmdibrahim/) · [Instagram](https://www.instagram.com/ibrahim119920/)
+# Ahmad Maulana Ibrahim
 
-## About
+Information Engineering student at Universitas Gadjah Mada. I build projects
+in data engineering, machine learning, automation, and web and mobile development.
 
-I am an Information Engineering student at Universitas Gadjah Mada with interests in **data engineering and analytics, artificial intelligence, automation, and web development**.
+[LinkedIn](https://www.linkedin.com/in/hmdibrahim/) ·
+[Instagram](https://www.instagram.com/ibrahim119920/)
 
-I enjoy transforming raw data into reliable insights, experimenting with machine learning models, automating repeatable workflows, and building useful digital products. My repositories document hands-on projects ranging from water-level prediction and spatial data processing to intelligent web and mobile applications.
+## Featured projects
 
----
+- **[Money Tracker](https://github.com/ibrahim119920/money_tracker)** — A Flutter
+  personal finance app for cashbooks, wallets, transactions, transfers, and
+  monthly reports in Indonesian Rupiah. Annual reports and offline caching are
+  still in development.
+- **[Lelaku](https://github.com/ibrahim119920/lelaku)** — A shared travel app
+  prototype using Next.js and FastAPI. Authentication and profiles work; trip,
+  matching, pickup, chat, and risk features are still being developed.
+- **[Water Level Prediction with CatBoost][catboost]** —
+  A notebook pipeline using environmental and river-network features. The V2
+  run records a leaderboard RMSE of 1.60422 m; data and trained models are not
+  included in the repository.
 
-## Focus Area
+## Areas and tools
 
-| Domain | Focus |
-|---|---|
-| Data Engineering & Analytics | Data preparation, feature engineering, spatial data processing, validation, and analytical workflows |
-| Artificial Intelligence | Machine learning, predictive modeling, model evaluation, and AI-assisted features |
-| Automation | Reproducible pipelines, automated checks, and GitHub-based development workflows |
-| Web Development | Responsive applications, intelligent product features, and modern frontend development |
+- **Data and geospatial:** Python, SQL, Pandas, NumPy, GeoPandas, PyArrow.
+- **Machine learning:** CatBoost, XGBoost, scikit-learn, model validation.
+- **Automation:** GitHub Actions, Git, reproducible data pipelines.
+- **Applications:** TypeScript, Next.js, React, Flutter, Dart, HTML, CSS.
 
----
+## Other work
 
-## Tools & Tech Stack
+- [tma-station-aware](https://github.com/ibrahim119920/tma-station-aware):
+  Water-level data preparation, spatial features, and validation workflows.
+- [senpro-github-action](https://github.com/ibrahim119920/senpro-github-action):
+  GitHub Actions and automated development workflows.
+- [web-thrift-store](https://github.com/ibrahim119920/web-thrift-store):
+  E-commerce site for unique thrift products.
+- [Rekberin](https://github.com/aufaanggara/rekberin): Collaborative project
+  hosted in another account.
 
-**Data Engineering & Analytics**  
-Python · SQL · Jupyter Notebook · Pandas · NumPy · GeoPandas · PyArrow
-
-**Artificial Intelligence**  
-CatBoost · XGBoost · scikit-learn · Predictive Modeling · Model Validation
-
-**Automation**  
-GitHub Actions · Git · GitHub · Reproducible Data Pipelines
-
-**Web & Application Development**  
-TypeScript · JavaScript · Next.js · React · HTML · CSS · Flutter · Dart · C++
-
----
-
-## Projects & Writeups
-
-| Repository | Description |
-|---|---|
-| [tma-station-aware](https://github.com/ibrahim119920/tma-station-aware) | Data engineering and analytics pipeline for water-level data, covering data audits, geospatial feature preparation, rolling-origin validation, and model-ready datasets |
-| [lelaku](https://github.com/ibrahim119920/lelaku) | Intelligent trip-matching platform with pickup recommendations and AI-assisted risk detection |
-| [senpro-github-action](https://github.com/ibrahim119920/senpro-github-action) | GitHub Actions project for exploring automated development and delivery workflows |
-| [Rekberin](https://github.com/aufaanggara/rekberin) | Secure escrow directory and transaction dashboard built with Next.js, TypeScript, Prisma, and Supabase-ready integrations |
-| [web-thrift-store](https://github.com/ibrahim119920/web-thrift-store) | E-commerce website for unique thrift products with purchasing, wishlist, review, product, and order-management features |
-| [money_tracker](https://github.com/ibrahim119920/money_tracker) | Flutter-based application for tracking personal finances |
-
----
-
-## Contribution Graph
+## Activity
 
 [![Ahmad's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ibrahim119920&theme=github-compact&hide_border=true)](https://github.com/ibrahim119920)
+
+[catboost]: https://github.com/ibrahim119920/TMA-Codex-CatBoostRegressor
