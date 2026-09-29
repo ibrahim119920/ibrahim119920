@@ -42,4 +42,4 @@ in data engineering, machine learning, automation, and web and mobile developmen
 
 [![Ahmad's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ibrahim119920&theme=github-compact&hide_border=true)](https://github.com/ibrahim119920)
 
-[catboost]: https://github.com/ibrahim119920/TMA-Codex-CatBoostRegressor
+[catboost]: https://github.com/ibrahim119920/TMA-CatBoostRegressor
